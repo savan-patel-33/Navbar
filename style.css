@@ -1,0 +1,58 @@
+.navbar{
+    background-color: red;
+}
+.navbar-brand{
+    color: white;
+    text-decoration: none;
+}
+.list-item{
+    color: white;
+    text-decoration: none;
+}
+.navbar-brand:hover,.list-item:hover{
+    text-decoration: none;
+    color: white;
+}
+.menu_list{
+    text-align: right; 
+    padding: 5px 0;
+}
+.nav_menus,li{
+    display: inline;
+    margin: auto 20px;
+}
+.menu_div{
+    display: block !important;
+}
+.btn{
+    color: black;
+    background: transparent;
+    border: 1px solid transparent;
+}
+.navbar1{
+    display: flex;
+    height: 40px;
+    padding-top: 0.5px;
+    padding-bottom: 0px;
+}
+.navbar-text, p{
+    margin-top: 0px;
+    margin-bottom: 0.5px;
+}
+.contact{
+    text-decoration: none;
+}
+.navbar-text > p{
+    color: black;
+    /* font-weight: 100px; */
+}
+.contact_us_section{
+    padding: 5px 0;
+    text-align: right;
+    padding-right: 10px;
+}
+.btn:hover{
+    text-decoration: none;
+    color: black;
+    background: transparent;
+}
